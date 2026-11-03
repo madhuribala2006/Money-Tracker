@@ -1,5 +1,10 @@
 @import "tailwindcss";
-@source "../**/*.{html,js,jsx,ts,tsx}";
+@source "../index.html";
+@source "./App.tsx";
+@source "./components";
+@source "./context";
+@source "./pages";
+@source "./types";
 
 @custom-variant dark (&:where(.dark, .dark *));
 
