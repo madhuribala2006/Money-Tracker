@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tsx backend/server.ts",
     "start": "tsx backend/server.ts",
-    "build": "vite build frontend",
+    "build": "vite build --config vite.config.ts frontend",
     "preview": "vite preview frontend",
     "lint": "tsc --noEmit",
     "test": "tsx --test tests/auth.test.ts",
