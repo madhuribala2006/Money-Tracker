@@ -1,0 +1,6 @@
+{
+  "name": "Money Management System",
+  "description": "An easy-to-use personal finance app for tracking spending, planning budgets, managing bills, and reaching savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
